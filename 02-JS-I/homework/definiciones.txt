@@ -1,0 +1,26 @@
+* Variables: las variables en un lenguaje de programación son como contenedores de datos
+estos valores se asignan a cada variable mediante codigo y pueden contener diferentes tipos de datos
+usualmente las variables se utilizan para realizar operaciones o correr codigos donde se necesita
+que el usuario indique un valor desconocido a una pregunta y que puede variar de una ves a otra
+
+* Strings: Es un tipo de datos de texto, aun que puede contener cualquier numero, letra o caracter especial
+son tratados como texto y por tanto no se puede realizar operaciones matematicas o de otro tipo con ellos,
+en java para declarar una string se debe poner dentro de comillas simples o doble.
+
+* Funciones (argumentos, `return`)  : se podria decir que son una serie de instrucciones o comandos
+que se ejecutan en secuencia, son por decirlo de otro modo pequeños programas que funcionan para llevar 
+a cabo una tarea en particular, usualmente dependen de una o mas variables que el usuario debe proporcionar
+para llevar a cabo o no tal o cual funcion o tarea en especifico
+
+* Declaraciones `if`  : este tipo de funciones sirven para llevar a cabo diferentes tareas o comandos
+que dependen de una respuesta logica a una determinada pregunta, de tal forma que si la respuesta es verdadera
+realice una tarea o funcion determinada y si es falsa realice otra diferente
+
+
+* Valores booleanos (`true`, `false`)   : es un valor asignado a una variable que solo puede tener dos valores
+posibles, cierto o falso, 0 o 1, digamos que es como una moneda con dos caras, una tiene un valor 
+y la otra el valor contrario.
+
+
+
+
