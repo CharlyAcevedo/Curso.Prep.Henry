@@ -1,0 +1,29 @@
+DEFINICIONES 03-JSII
+
+* FOR : Es un comando o instruccion de javascript que permite realizar una tarea 
+de forma repetitiva y hacerla una y otra vez hasta que se cumpla una condicion dada, 
+for se debe escribir en base a tres cosas, primero una variable creada que contenga un valor
+luego la condicion que es una evaluacion de falso verdadero y que hasta no cumplirse no terminara
+de ejecutar la tarea que se le indique, y luego el incremento numerico a la variable inicial que se
+debe incluir en la condicion, de forma que al llegar a cumplirla se detenga el bucle.
+despues de esas declaraciones iniciales y entre corchetes o llaves se debe incluir la o las tareas o 
+comandos a ejecutar en el bucle cada ves que pase por ahi
+
+* `&&`, `||`, `!` : Estos son operadores logicos que representan cada uno al; y, and = && al o, or = || 
+y al no, not = !, digamos que son formas de evaluar y concatenar evaluaciones logicas, de forma tal que 
+una instruccion que dependa de una evaluación logica pueda ser evaluada por mas de una opcion.
+Es decir que si yo quiero saber si algo es cierto o falso dependiendo de mas de una cosa pueda hacerse,
+Digamos que queremos saber si un niño es huerfano, seria huerfano si su papa o su mama han muerto
+sin importar cual de los dos haya sido, asi que si uno o el otro han fallecido el niño será huerfano
+la expresion || es igual a usar la palabra o siempre que una de las dos condiciones sea verdadera la 
+operacion en si dara verdadero; por otro lado esta el operador y aqui digamos que por ejemplo alguien 
+quiere saber si un auto esta limpio, y evaluan si el exterior esta limpio igual que el interior del auto
+para que el auto este completamente limpio ambos deben ser ciertos, tanto el interior y el exterior deben 
+estar limpios, se usaria && para evaluar que ambos fueran ciertos antes de emitir un estado como limpio completo
+la expresion ! o negacion simplemente niega o cambia al contrario la expresion que antecede, es como decir 
+esto no es asi, de tal forma que un igual negado seria como desigual === seria !== un cierto con la negacion ! 
+se convierte automaticamente en falso y viceversa.
+Igualmente esta expresion sirve para afirmar una certeza, si se quiere ver de alguna forma es como para
+reafirmar el valor logico de algo, si algo es cierto al aplicar la doble !! debera arrojar cierto si o si, 
+mientras que si es falso al aplicar !! igualmente aplicara falso si o si
+
